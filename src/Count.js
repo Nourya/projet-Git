@@ -34,7 +34,7 @@ return (
 
 
 		<button className="btn"
-		onClick={increment}>+</button>
+		onClick={increment}>++</button>
 	</div>
 
 	</div>
