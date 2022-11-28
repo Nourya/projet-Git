@@ -8,7 +8,7 @@ const [counter, setCounter] = useState(0)
 const [text, setText] = useState('black');
 
 const increment = () => {
-	setCounter(counter + 1)
+	setCounter(counter + 100)
   setText(counter >= 0 ? 'blue':'red' );
 
 }
